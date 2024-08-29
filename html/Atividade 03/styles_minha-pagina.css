@@ -1,0 +1,94 @@
+h1{ 
+    color: white;
+    border-bottom: 5px solid rgb(28, 8, 206);
+}
+
+h2{ 
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+ul{
+    color: white;
+}
+
+body{
+    background-color: black;
+    font-family:"Edu VIC WA NT Beginner";
+    font-size: 25px;
+    /*font-family:"New Amsterdam";*/
+}
+#div1{
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: rgba(68, 65, 65, 0.784);  
+    border: 0.5cm double black;
+    padding: 1cm;
+    border-radius: 5%;
+    /*
+    width: auto;
+    height: auto;
+    */
+
+}
+#b1{ 
+    background-color: rgb(9, 26, 213);
+}
+
+#b1 a{
+    color: white;
+}
+
+#b2{ 
+    background-color: rgb(54, 55, 59);
+}
+
+#b2 a{
+    color: white;
+}
+
+#b3{ 
+    background-color: rgba(213, 9, 101, 0.673);
+}
+
+#b3 a{
+    color: white;
+}
+
+#b4{ 
+    background-color: rgb(9, 26, 213);
+}
+
+#b4 a{
+    color: white;
+}
+
+#img_perfil{
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+#titulo_1{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    border-bottom: 1px solid white;
+}
+
+#icone_voltar{
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid white;
+    width: 5%;
+    margin-left: 10%;
+    margin-top: 2%;
+}

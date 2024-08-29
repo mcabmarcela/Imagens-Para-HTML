@@ -1,0 +1,12 @@
+body{
+    background-color: #000000;
+}
+
+#icone_voltar{
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 50% ;
+    width: 3%;
+    margin-left: 5%;
+    margin-top: 2%;
+}

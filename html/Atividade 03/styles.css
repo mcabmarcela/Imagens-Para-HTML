@@ -1,0 +1,40 @@
+body{
+    background-color: #000000;
+}
+
+#div1{
+    font-family: "Bungee Tint" ,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 25%;
+    margin-right: 25%; 
+ 
+}
+
+#icone1{
+    width: 3% ;
+    border: 1px solid #ffffff;
+    border-radius: 50% 
+}
+
+#Red_icone1{
+    text-decoration:  none;
+    color: #ffffff;
+}
+
+#icone2{
+    width: 3%;
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+}
+
+#Red_icone2{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#ul1{
+    color: #ffffff;
+    border-bottom: solid 2px;
+    list-style: none; 
+}
